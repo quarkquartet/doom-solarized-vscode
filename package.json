@@ -1,0 +1,22 @@
+{
+  "name": "doom-solarized",
+  "displayName": "doom-solarized",
+  "description": "",
+  "version": "0.0.1",
+  "repository": "https://github.com/quarkquartet/doom-solarized-vscode",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "doom-solarized-dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/doom-solarized-dark-color-theme.json"
+      }
+    ]
+  }
+}
