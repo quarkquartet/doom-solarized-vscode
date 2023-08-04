@@ -1,6 +1,7 @@
 {
   "name": "doom-solarized",
   "displayName": "doom-solarized",
+  "publisher": "QuarkQuartet-IRW",
   "description": "",
   "version": "0.0.1",
   "icon": "images/solarized-logo.png",
