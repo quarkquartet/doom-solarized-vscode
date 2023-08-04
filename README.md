@@ -1,16 +1,7 @@
-# doom-solarized README
+# Doom-Solarized Theme for VSCode
 
-## Working with Markdown
+VSCode has its own default solarized theme. But I prefer the one from [Doom Emacs](https://github.com/doomemacs/doomemacs)!
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+I try my best to copy the solarized theme from [Doom Themes](https://github.com/doomemacs/doomemacs). I feel this one is milder and make eyes less tired.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+For personal use for now, no guarantee that it will work perfectly. Any pull requests and suggestions are welcome.
