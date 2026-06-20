@@ -3,7 +3,7 @@
 	"displayName": "doom-solarized",
 	"publisher": "QuarkQuartet-IRW",
 	"description": "",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"icon": "images/solarized-logo.png",
 	"repository": "https://github.com/quarkquartet/doom-solarized-vscode",
 	"engines": {
@@ -18,6 +18,11 @@
 				"label": "doom-solarized-dark",
 				"uiTheme": "vs-dark",
 				"path": "./themes/doom-solarized-dark-color-theme.json"
+			},
+			{
+				"label": "doom-solarized-light",
+				"uiTheme": "vs",
+				"path": "./themes/doom-solarized-light-color-theme.json"
 			}
 		]
 	}
