@@ -3,7 +3,7 @@
 	"displayName": "doom-solarized",
 	"publisher": "QuarkQuartet-IRW",
 	"description": "",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"icon": "images/solarized-logo.png",
 	"repository": "https://github.com/quarkquartet/doom-solarized-vscode",
 	"engines": {
